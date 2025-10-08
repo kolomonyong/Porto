@@ -6,7 +6,7 @@
       </p>
       <div class="flex justify-center gap-6 my-4">
         <a
-          href="#"
+          href="www.linkedin.com/in/irfan-fauzan-rahman-b3053a214"
           target="_blank"
           class="hover:text-gray-900 transition-colors"
         >

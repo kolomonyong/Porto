@@ -36,5 +36,27 @@ const projects = ref([
     techStack: ["Python", "Flask", "Machine Learning", "Data Science"],
     url: "#", // <-- UPDATE THIS URL
   },
+  {
+    title: "Perkutut News",
+    description:
+      "A Magazine website built with Laravel, featuring a user-friendly interface and robust content management system for seamless article publishing.",
+    techStack: [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "Filament",
+      "Blade",
+      "Tailwind CSS",
+      "Full-Stack",
+    ],
+    url: "#", // <-- UPDATE THIS URL
+  },
+  {
+    title: "Portofolio Website",
+    description:
+      "A personal portfolio website built with Vue.js, showcasing my projects and skills.",
+    techStack: ["Vue.js", "JavaScript", "CSS", "Tailwind CSS", "Frontend"],
+    url: "#", // <-- UPDATE THIS URL
+  },
 ]);
 </script>

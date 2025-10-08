@@ -26,6 +26,24 @@
         <div
           class="absolute w-5 h-5 bg-gray-400 rounded-full -left-2.5 border-4 border-white"
         ></div>
+        <p class="text-sm font-medium text-gray-500">March 2025 - May 2025</p>
+        <h3 class="text-2xl font-semibold text-gray-900 mt-1">
+          Full-Stack Developer/Data Scientist Internship - PT. Frisian Flag
+          Indonesia
+        </h3>
+        <p class="text-gray-600 mt-3">
+          As a Full-Stack Developer/Data Scientist, I developed a web-based
+          application for monitoring and predicting milk quality using Python
+          Flask, integrating machine learning models to enhance quality control
+          processes. And also created a web-based warehouse management system
+          using Laravel to streamline QC sample management.
+        </p>
+      </div>
+
+      <div class="mb-12 mt-12">
+        <div
+          class="absolute w-5 h-5 bg-gray-400 rounded-full -left-2.5 border-4 border-white"
+        ></div>
         <p class="text-sm font-medium text-gray-500">
           September 2021 - September 2025
         </p>
