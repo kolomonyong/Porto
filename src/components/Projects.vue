@@ -27,7 +27,7 @@ const projects = ref([
     description:
       "A full-stack web app built with Laravel to digitize and streamline QC sample management, helping non-staff to easily manage samples.",
     techStack: ["Laravel", "PHP", "MySQL", "Full-Stack"],
-    url: "#", // <-- UPDATE THIS URL (e.g., your GitHub repo)
+    url: "https://keeping-sample.vercel.app/", // <-- UPDATE THIS URL (e.g., your GitHub repo)
   },
   {
     title: "Milk Quality Prediction Tool",
