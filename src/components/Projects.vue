@@ -64,7 +64,7 @@ const projects = ref([
       "Tailwind CSS",
       ""
     ],
-    url: "https://perkutut-news-update.vercel.app/", // <-- UPDATE THIS URL
+    url: "https://invitation-project-ten.vercel.app/", // <-- UPDATE THIS URL
   },
   {
     title: "Portofolio Website",
