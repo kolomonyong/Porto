@@ -39,7 +39,7 @@ const projects = ref([
   {
     title: "Perkutut News",
     description:
-      "A Magazine website built with Laravel, featuring a user-friendly interface and robust content management system for seamless article publishing.",
+      "A Magazine website built with Laravel, featuring a user-friendly interface and robust content management system for seamless article publishing. (still have problem on deployment i think vercel not support storage:link or filament)",
     techStack: [
       "Laravel",
       "PHP",
@@ -49,14 +49,29 @@ const projects = ref([
       "Tailwind CSS",
       "Full-Stack",
     ],
-    url: "#", // <-- UPDATE THIS URL
+    url: "https://perkutut-news-update.vercel.app/", // <-- UPDATE THIS URL
+  },
+  {
+    title: "Digital Invitation Maker",
+    description:
+      "A web application that enables users to create and customize digital invitations for various events with ease.",
+    techStack: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Supabase",
+      "JavaScript",
+      "Tailwind CSS",
+      ""
+    ],
+    url: "https://perkutut-news-update.vercel.app/", // <-- UPDATE THIS URL
   },
   {
     title: "Portofolio Website",
     description:
       "A personal portfolio website built with Vue.js, showcasing my projects and skills.",
     techStack: ["Vue.js", "JavaScript", "CSS", "Tailwind CSS", "Frontend"],
-    url: "#", // <-- UPDATE THIS URL
+    url: "https://irfan-porto-updated.vercel.app/", // <-- UPDATE THIS URL
   },
 ]);
 </script>
