@@ -23,7 +23,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold text-gray-900 mt-4">Languages</h3>
-        <p class="text-gray-600 mt-1">Python, PHP, JavaScript, SQL</p>
+        <p class="text-gray-600 mt-1">Python, PHP, JavaScript, TypeScript, SQL</p>
       </div>
 
       <div class="skill-item">
@@ -44,7 +44,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold text-gray-900 mt-4">Frameworks</h3>
-        <p class="text-gray-600 mt-1">Laravel, Vue.js, Flask, Scikit-learn</p>
+        <p class="text-gray-600 mt-1">Laravel, Vue.js, React.js, Next.js, Flask, Scikit-learn</p>
       </div>
 
       <div class="skill-item">
