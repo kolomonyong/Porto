@@ -23,7 +23,7 @@
           </svg>
         </a>
         <a
-          href="#"
+          href="https://github.com/kolomonyong/"
           target="_blank"
           class="hover:text-gray-900 transition-colors"
         >
