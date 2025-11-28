@@ -73,5 +73,12 @@ const projects = ref([
     techStack: ["Vue.js", "JavaScript", "CSS", "Tailwind CSS", "Frontend"],
     url: "https://irfan-porto-updated.vercel.app/", // <-- UPDATE THIS URL
   },
+  {
+    title: "Automation Farmer Stok bot Whatsapp",
+    description:
+      "A n8N automation workflow that integrates with WhatsApp to automate customer service tasks for Farmer Stok, enhancing efficiency and response times.",
+    techStack: ["n8N", "Automation", "Workflow", "No-Code", "Docker", "ngrok", "API"],
+    url: "https://api.whatsapp.com/send/?phone=6287775766892&text&type=phone_number&app_absent=0", // <-- UPDATE THIS URL
+  },
 ]);
 </script>
