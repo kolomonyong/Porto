@@ -25,7 +25,7 @@ const projects = ref([
   {
     title: "Warehouse Management Application",
     description:
-      "A full-stack web app built with Laravel to digitize and streamline QC sample management, helping non-staff to easily manage samples.",
+      "Keeping Sample Management & Quality Control. A modern Laravel web app for laboratory keeping sample inventory, barcode scanning, deviation reporting, and AI-powered QC assistance.",
     techStack: ["Laravel", "PHP", "MySQL", "Full-Stack"],
     url: "https://github.com/kolomonyong/kmsqc-app", 
   },
