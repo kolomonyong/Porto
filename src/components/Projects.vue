@@ -27,7 +27,7 @@ const projects = ref([
     description:
       "A full-stack web app built with Laravel to digitize and streamline QC sample management, helping non-staff to easily manage samples.",
     techStack: ["Laravel", "PHP", "MySQL", "Full-Stack"],
-    url: "https://keeping-sample.vercel.app/", // <-- UPDATE THIS URL (e.g., your GitHub repo)
+    url: "https://github.com/kolomonyong/kmsqc-app", 
   },
   {
     title: "Milk Quality Prediction Tool",
@@ -49,7 +49,7 @@ const projects = ref([
       "Tailwind CSS",
       "Full-Stack",
     ],
-    url: "https://perkutut-news-update.vercel.app/", // <-- UPDATE THIS URL
+    url: "https://github.com/kolomonyong/perkutut-news-update", // <-- UPDATE THIS URL
   },
   {
     title: "Digital Invitation Maker",
